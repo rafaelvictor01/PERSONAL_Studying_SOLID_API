@@ -1,0 +1,27 @@
+{
+  "name": "PERSONAL_Studying_SOLID_API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelvictor01/PERSONAL_Studying_SOLID_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelvictor01/PERSONAL_Studying_SOLID_API/issues"
+  },
+  "homepage": "https://github.com/rafaelvictor01/PERSONAL_Studying_SOLID_API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.3.5"
+  }
+}
